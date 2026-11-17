@@ -1,0 +1,4 @@
+.DS_Store
+# (the former project files: the model is in the database)
+*.vsdproj
+*.vsdproj.bak
